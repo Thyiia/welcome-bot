@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": [],
+        "BOTDURUM": "smok3rrrrrrrrrrrrr",
+        "GUILD_ID": "",
+        "SESKANAL": "",
+        "ALTYETKİLİ": ""
+    },
+    "FILES": {
+        "WELCOME": "default_files/ses.mp3",
+        "STAFF": "default_files/yetkili.mp3"
+    },
+    "token": "token"
+}
